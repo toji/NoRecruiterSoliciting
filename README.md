@@ -1,6 +1,6 @@
 # No Recruiter Soliciting
 
-The presence of this repository in my GitHub profile indicates that I do not wish to be contacted with solicitations for job opportunities at this time. I am happy with my current position and do not intend to leave it in the foreseeable future. If you contact because you felt my GitHub profile made me a perfect fit for your opportunity I will know that you are either:
+The presence of this repository in my GitHub profile indicates that I do not wish to be contacted with solicitations for job opportunities at this time. I am happy with my current position and do not intend to leave it in the foreseeable future. If you contact me because you felt my GitHub profile is a perfect fit for your opportunity I will know that you are either:
 
  * Lying, and have not looked though my repositories at all.
  * Lazy, and did not look through my repositories very thoroughly.
